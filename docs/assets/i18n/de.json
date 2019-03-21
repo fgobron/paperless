@@ -1,0 +1,114 @@
+{
+  "app-title": "Center Parcs - Bracelet",
+  "login": {
+    "title": "Consult my bracelet",
+    "connected": "Connected",
+    "disconnected": "Disconnected",
+    "login": "Connection",
+    "next": "Continue",
+    "logout": "Logout",
+    "progress": "Loading...",
+    "welcome": "Welcome! Log in to view the services performed on your bracelet.",
+    "error": {
+      "title": "Connection",
+      "message": "An error occurred while trying to identify.",
+      "close": "Close"
+    },
+    "subnav": {
+      "scan": {
+        "label": "How to scan my bracelet?"
+      },
+      "numero": {
+        "label": "Where to find the number of my bracelet?"
+      },
+      "nfc": {
+        "label": "My phone is NFC compatible",
+        "caption": "iPhone 7+, Android depending on model"
+      },
+      "bookingid": {
+        "label": "I prefer to use my reservation number"
+      }
+    },
+    "help": {
+      "scan": {
+        "title": "How to scan my bracelet?",
+        "msg1": "If your phone is NFC compatible, you can scan your bracelet to enter its code.",
+        "msg2": "Bring your phone closer to your wristband and wait for the confirmation of your wristband code."
+      },
+      "numero": {
+        "title": "Where to find the number of my bracelet?",
+        "msg1": "On the back of your bracelet, there is a 14-digit identifier.",
+        "msg2": "We use the first 4 digits as well as the last 4 digits."
+      },
+      "bookingid": {
+        "title": "Where can I find my reservation number?",
+        "list": {
+          "label": "You will find your reservation number on:",
+          "item1": "the confirmation email received following your reservation",
+          "item2": "the Planet Center Parks app in \"My stay \" and then \"My reservation \"",
+          "item3": "a home page of your MyCenterParcs area or the section \"Detail of my reservation \""
+        },
+        "msg": "If your booking has not been made via the Center Parcs website or the call center, please identify yourself directly with your bracelet number."
+      },
+      "close": "Close"
+    },
+    "uid": {
+      "label": "Bracelet number",
+      "required": "Bracelet number is required.",
+      "minlength": "Please enter at least 2 characters.",
+      "unknown": "Your bracelet number could not be recognized."
+    },
+    "cottage": {
+      "label": "Cottage number",
+      "required": "Cottage number is required.",
+      "pattern": "Please enter only numbers."
+    }
+  },
+  "infos": {
+    "title": "Infos",
+    "presenting": " All your coupons now digitized and grouped on your bracelet.",
+    "list": {
+      "lbl1": "For all pre-reserved services :",
+      "msg1": "All your coupons now digitized and grouped on your bracelet.",
+      "lbl2": "For Deep Nature Spa services :",
+      "msg2": "Remember to plan your treatment at the spa reception",
+      "lbl3": "For the gift-giving activities offered as part of the Early Booking Offer :",
+      "msg3": "Meet at the park reception for their planning and booking"
+    },
+    "subscription": "I subscribe to bracelet alerts, an email or SMS for each use",
+    "booking": {
+      "label": "Booking n°"
+    },
+    "cottage": {
+      "label": "Cottage n°"
+    },
+    "fromto": "From {{begin}} to {{end}}"
+  },
+  "voucher": {    
+    "burned": "Burned on",
+    "expired": "Expired on"
+  },
+  "activities": {
+    "title": "Activities",
+    "available": "My activities",
+    "used": "Mes used activities"
+  },
+  "services": {
+    "title": "Packages & Services",
+    "available": "My packages & services",
+    "used": "My packages & services consumed"
+  },
+  "payment": {
+    "title": "Payment"
+  },
+  "footer": {
+    "title": "Center Parcs",
+    "conditions": "Terms and conditions"
+  },
+  "errors": {
+    "invalid-form": "Invalid form",
+    "technical-title": "Technical error",
+    "technical-fetch-msg": "An error occurred while fetching data",
+    "close": "Close"
+  }
+}

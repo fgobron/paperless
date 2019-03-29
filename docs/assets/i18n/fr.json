@@ -91,16 +91,19 @@
   "activities": {
     "title": "Activités",
     "available": "Mes activités",
-    "used": "Mes activités consommées"
+    "used": "Mes activités consommées",
+    "empty": "Aucune activité"
   },
   "services": {
     "title": "Forfaits & Services",
     "available": "Mes prestations",
-    "used": "Mes prestations consommées"
+    "used": "Mes prestations consommées",
+    "empty": "Aucun service"
   },
-  "payments": {
+  "payments": {    
     "title": "Paiements",
     "msg": "Mes paiements avec mon bracelet",
+    "empty": "Aucun paiement",
     "compensation": "Compensation",
     "cashless": "Cashless",
     "recreation": "Recreation",

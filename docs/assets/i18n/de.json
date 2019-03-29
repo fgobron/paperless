@@ -84,7 +84,7 @@
     },
     "fromto": "From {{begin}} to {{end}}"
   },
-  "voucher": {    
+  "voucher": {
     "burned": "Burned on",
     "expired": "Expired on"
   },
@@ -98,8 +98,18 @@
     "available": "My packages & services",
     "used": "My packages & services consumed"
   },
-  "payment": {
-    "title": "Payment"
+  "payments": {
+    "title": "Payments",
+    "msg": "My payments with my bracelet",
+    "compensation": "Compensation",
+    "cashless": "Cashless",
+    "recreation": "Recreation",
+    "total": "Initial balance",
+    "available": "Balance to consume",
+    "debits": "Debits made",
+    "recent": "Recent debits",
+    "expand": "See all flows",
+    "collapse": "Collapse"    
   },
   "footer": {
     "title": "Center Parcs",
@@ -110,5 +120,9 @@
     "technical-title": "Technical error",
     "technical-fetch-msg": "An error occurred while fetching data",
     "close": "Close"
+  },
+  "conditions": {
+    "terms": "JSDLSFJCLSFLSFJSLDité par PV-CP DISTRIBUTION \n Société anonyme au capital de 6.055.935 euros\n Siège social : L’Artois – Espace Pont de Flandre, 11 rue de Cambrai 75947 PARIS CEDEX 19\n RCS PARIS sous le N° 314 283 326 - SIRET 314 283 326 00093 - APE 7912Z\n N° Identification TVA intracommunautaire : FR 96 314 283 326 Nom du Directeur de la publication : M. Grégory SION Numéro de téléphone de contact : +33 (0)1 58 21 58 21 Adresse Courriel de contact : direction.web@groupepvcp.com INFORMATIONS HEBERGEUR PLANET Bourgogne - Jean-Michel LEFAURE RCS DIJON B 403 226 012 APE 62024 24 rue de la Redoute 21850 Saint Apollinaire Tél : +33 (0)3 80 73 11 12 INFORMATIONS JURIDIQUES COMPLEMENTAIRES Immatriculation au registre des opérateurs de voyages et de séjours : IM075110024 Assurance aux tiers obligatoires est mise en oeuvre par : RSA – 153 RUE SAINT HONORE – 75001 PARIS Garantie financière fournie par : APST – 15 avenue CARNOT – 75017 PARIS",
+    "privacy": "blablablablbabae garantie PV-CP DISTRIBUTION s’engage à prendre un soin tout particulier dans la véracité des informations transmises sur le site notamment concernant les spécifications des produits et les prix et de maintenir le site à jour de manière régulière. Toutefois, des informations erronées ou des omissions pourront être constatées dues notamment à des erreurs typographiques ou de mise en page. Si vous constatiez quelques erreurs vous êtes invités à nous les indiquer pour qu’il soit procédé aux corrections appropriées. PV-CP DISTRIBUTION se réserve le droit, à sa seule discrétion, de modifier tout élément du site. Dans le cadre de sa politique de mise à jour et d'optimisation du site, PV-CP DISTRIBUTION peut décider de modifier les présentes conditions. Toute information datée qui est publiée sur le site ne vaut que pour la date précisée uniquement. Ainsi PV-CP DISTRIBUTION se réserve le droit de mettre fin à l’une quelconque ou à toutes ses offres sur Internet sans préavis. De surcroît, les offres d’informations, de produits ou de services faites sur le site ne constituent ni un quelconque démarchage ni une quelconque sollicitation de la part de PV-CP DISTRIBUTION vis-à-vis de quiconque en vue de leur utilisation dans des zones géographiques où la fourniture des informations, produits et services susmentionnés est interdite par la loi. PV-CP DISTRIBUTION ne peut garantir l'accès ininterrompu au site, ni l'absence totale d'erreurs. Il peut arriver que le service soit interrompu lors de problèmes de maintenance ou réparations, ou suite à des problèmes informatiques, à une perturbation du service Internet ou à d'autres circonstances imprévues. De même, PV-CP DISTRIBUTION n’est pas responsable des retards, difficulté d’utilisation, ou de l’incompatibilité entre le présent site et des fichiers, votre navigateur ou tout autre programme d’accès au site."
   }
 }

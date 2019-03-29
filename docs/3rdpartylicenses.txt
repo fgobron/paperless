@@ -429,12 +429,12 @@ THE SOFTWARE.
 @angular/forms
 MIT
 
+@angular/animations
+MIT
+
 @angular/material/divider
 
 @angular/material/list
-
-@angular/animations
-MIT
 
 @angular/material/core
 
@@ -465,6 +465,8 @@ MIT
 @angular/material/toolbar
 
 @angular/material/select
+
+@angular/material/expansion
 
 @angular/material/grid-list
 

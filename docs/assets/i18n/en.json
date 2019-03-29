@@ -98,8 +98,18 @@
     "available": "My packages & services",
     "used": "My packages & services consumed"
   },
-  "payment": {
-    "title": "Payment"
+  "payments": {
+    "title": "Payments",
+    "msg": "My payments with my bracelet",
+    "compensation": "Compensation",
+    "cashless": "Cashless",
+    "recreation": "Recreation",
+    "total": "Initial balance",
+    "available": "Balance to consume",
+    "debits": "Debits made",
+    "recent": "Recent debits",
+    "expand": "See all flows",
+    "collapse": "Collapse"    
   },
   "footer": {
     "title": "Center Parcs",

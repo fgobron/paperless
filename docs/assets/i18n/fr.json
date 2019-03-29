@@ -98,8 +98,18 @@
     "available": "Mes prestations",
     "used": "Mes prestations consommées"
   },
-  "payment": {
-    "title": "Paiement"
+  "payments": {
+    "title": "Paiements",
+    "msg": "Mes paiements avec mon bracelet",
+    "compensation": "Compensation",
+    "cashless": "Cashless",
+    "recreation": "Recreation",
+    "total": "Solde initial",
+    "available": "Solde à consommer",
+    "debits": "Débits effectués",
+    "recent": "Débits récents",
+    "expand": "Voir tous les débits",
+    "collapse": "Réduire"    
   },
   "footer": {
     "title": "Center Parcs",

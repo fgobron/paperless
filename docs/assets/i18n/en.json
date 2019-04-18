@@ -55,7 +55,7 @@
     "uid": {
       "label": "Bracelet number",
       "required": "Bracelet number is required.",
-      "minlength": "Please enter at least 2 characters.",
+      "minlength": "Please enter at least 6 characters.",
       "unknown": "Your bracelet number could not be recognized."
     },
     "cottage": {

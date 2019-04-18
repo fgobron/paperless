@@ -55,7 +55,7 @@
     "uid": {
       "label": "Numéro de bracelet",
       "required": "Le numéro de bracelet est requis.",
-      "minlength": "Merci de saisir au moins 2 caractères.",
+      "minlength": "Merci de saisir au moins 6 caractères.",
       "unknown": "Votre numéro de bracelet n'a pas pu être reconnnu."
     },
     "cottage": {
@@ -66,14 +66,14 @@
   },
   "infos": {
     "title": "Infos",
-    "presenting": " Tous vos coupons maintenant digitalisés et régroupés sur votre bracelet.",
+    "presenting": " Tous vos coupons maintenant digitalisés et regroupés sur votre bracelet.",
     "list": {
       "lbl1": "Pour toutes les prestations pré-réservées :",
       "msg1": "Tous vos coupons maintenant digitalisés et regroupés sur votre bracelet.",
       "lbl2": "Pour les prestations Spa Deep Nature :",
       "msg2": "Pensez à planifier votre soin à la récepetion du spa",
       "lbl3": "Pour les activités-Cadeaux offertes dans le cadre de l'offre Early Booking :",
-      "msg3": "Rendez-vous à la réception du parc piour leur planification et réservation"
+      "msg3": "Rendez-vous à la réception du parc pour leur planification et réservation"
     },
     "subscription": "Je m'abonne aux alertes bracelet, un email ou SMS pour chaque utilisation",
     "booking": {

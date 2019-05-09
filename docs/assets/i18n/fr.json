@@ -61,7 +61,8 @@
     "cottage": {
       "label": "Numéro de cottage",
       "required": "Le numéro de cottage est requis.",
-      "pattern": "Merci de ne saisir que des chiffres."
+      "pattern": "Merci de ne saisir que des chiffres.",
+      "unknown": "Votre numéro de cottage n'a pas pu être reconnnu."
     }
   },
   "infos": {

@@ -61,8 +61,8 @@
     "cottage": {
       "label": "Cottage number",
       "required": "Cottage number is required.",
-      "pattern": "Please enter only numbers."
-    }
+      "pattern": "Please enter only numbers.",
+      "unknown": "Your cottage number could not be recognized."
   },
   "infos": {
     "title": "Infos",

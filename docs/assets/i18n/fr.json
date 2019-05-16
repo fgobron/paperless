@@ -104,7 +104,7 @@
   "payments": {    
     "title": "Paiements",
     "msg": "Mes paiements avec mon bracelet",
-    "empty": "Aucun paiement",
+    "empty": "Aucune transaction",
     "compensation": "Compensation",
     "cashless": "Cashless",
     "recreation": "Recreation",

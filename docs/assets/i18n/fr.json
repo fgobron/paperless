@@ -1,133 +1,133 @@
 {
-  "app-title": "Center Parcs - Bracelet",
-  "login": {
-    "title": "Consulter mon bracelet",
-    "connected": "Connecté",
-    "disconnected": "Déconnecté",
-    "login": "Connexion",
-    "next": "Continuer",
-    "logout": "Déconnexion",
-    "progress": "Connexion en cours...",
-    "welcome": "Bienvenue ! Connectez-vous pour consulter les prestations présentes sur votre bracelet.",
-    "error": {
-      "title": "Connexion",
-      "message": "Une erreur s'est produite lors de la tentative d'identification.",
-      "close": "Fermer"
-    },
-    "subnav": {
-      "scan": {
-        "label": "Comment scanner mon bracelet ?"
-      },
-      "numero": {
-        "label": "Où trouver le numéro de mon bracelet ?"
-      },
-      "nfc": {
-        "label": "Mon téléphone est compatible NFC",
-        "caption": "iPhone 7+, Android selon modèle"
-      },
-      "bookingid": {
-        "label": "Je préfére utiliser mon numéro de réservation"
-      }
-    },
-    "help": {
-      "scan": {
-        "title": "Comment scanner mon bracelet ?",
-        "msg1": "Si votre téléphone est compatible NFC, vous pourrez scanner votre bracelet pour entrer son code.",
-        "msg2": "Rapprochez votre téléphone de votre bracelet et attendez la confirmation de votre code bracelet."
-      },
-      "numero": {
-        "title": "Où trouver le numéro de mon bracelet ?",
-        "msg1": "Au dos de votre bracelet, il y a un identifiant à 14 chiffres.",
-        "msg2": "Nous utilisons les 4 premiers chiffres ainsi que les 4 derniers."
-      },
-      "bookingid": {
-        "title": "Où trouver mon numéro de réservation ?",
-        "list": {
-          "label": "Vous retrouverez votre numéro de réservation sur :",
-          "item1": "l'email de confirmation reçu suite à votre réservation",
-          "item2": "l'application Planet Center Parcs dans \" Mon séjour \" puis \" Ma réservation \"",
-          "item3": "la page d'accueil de votre espace MyCenterParcs ou la rubrique \" Détail de ma réservation \""
-        },
-        "msg": "Si votre réservation n'a pas été faite via le site web Center Parcs ou le call center, merci de vous identifier directement avec votre numéro de bracelet."
-      },
-      "close": "Fermer"
-    },
-    "uid": {
-      "label": "Numéro de bracelet",
-      "required": "Le numéro de bracelet est requis.",
-      "minlength": "Merci de saisir au moins 6 caractères.",
-      "unknown": "Votre numéro de bracelet n'a pas pu être reconnnu."
-    },
-    "cottage": {
-      "label": "Numéro de cottage",
-      "required": "Le numéro de cottage est requis.",
-      "pattern": "Merci de ne saisir que des chiffres.",
-      "unknown": "Votre numéro de cottage n'a pas pu être reconnnu."
-    }
-  },
-  "infos": {
-    "title": "Infos",
-    "presenting": " Tous vos coupons maintenant digitalisés et regroupés sur votre bracelet.",
-    "list": {
-      "lbl1": "Pour toutes les prestations pré-réservées :",
-      "msg1": "Tous vos coupons maintenant digitalisés et regroupés sur votre bracelet.",
-      "lbl2": "Pour les prestations Spa Deep Nature :",
-      "msg2": "Pensez à planifier votre soin à la récepetion du spa",
-      "lbl3": "Pour les activités-Cadeaux offertes dans le cadre de l'offre Early Booking :",
-      "msg3": "Rendez-vous à la réception du parc pour leur planification et réservation"
-    },
-    "subscription": "Je m'abonne aux alertes bracelet, un email ou SMS pour chaque utilisation",
-    "booking": {
-      "label": "Réservation n°"
-    },
-    "cottage": {
-      "label": "Cottage n°"
-    },
-    "fromto": "Du {{begin}} au {{end}}"
-  },
-  "voucher": {
-    "burned": "Consommé le",
-    "expired": "Expiré le"
-  },
-  "activities": {
-    "title": "Activités",
-    "available": "Mes activités",
-    "used": "Mes activités consommées",
-    "empty": "Aucune activité"
-  },
-  "services": {
-    "title": "Forfaits & Services",
-    "available": "Mes prestations",
-    "used": "Mes prestations consommées",
-    "empty": "Aucun service"
-  },
-  "payments": {    
-    "title": "Paiements",
-    "msg": "Mes paiements avec mon bracelet",
-    "empty": "Aucune transaction",
-    "compensation": "Compensation",
-    "cashless": "Cashless",
-    "recreation": "Recreation",
-    "total": "Solde initial",
-    "available": "Solde à consommer",
-    "debits": "Débits effectués",
-    "recent": "Débits récents",
-    "expand": "Voir tous les débits",
-    "collapse": "Réduire"    
-  },
-  "footer": {
-    "title": "Center Parcs",
-    "conditions": "Terms and conditions",
-    "privacy": "Privacy"
-  },
-  "errors": {
-    "invalid-form": "Formulaire invalide",
-    "technical-title": "Erreur technique",
-    "technical-fetch-msg": "Une erreur s'est produite lors du rapatriement des données",
-    "close": "Fermer"
-  },
-  "conditions": {
-    "terms": "INFORMATIONS EDITEUR\n Ce site est édité par PV-CP DISTRIBUTION \n Société anonyme au capital de 6.055.935 euros\n Siège social : L’Artois – Espace Pont de Flandre, 11 rue de Cambrai 75947 PARIS CEDEX 19\n RCS PARIS sous le N° 314 283 326 - SIRET 314 283 326 00093 - APE 7912Z\n N° Identification TVA intracommunautaire : FR 96 314 283 326 Nom du Directeur de la publication : M. Grégory SION Numéro de téléphone de contact : +33 (0)1 58 21 58 21 Adresse Courriel de contact : direction.web@groupepvcp.com INFORMATIONS HEBERGEUR PLANET Bourgogne - Jean-Michel LEFAURE RCS DIJON B 403 226 012 APE 62024 24 rue de la Redoute 21850 Saint Apollinaire Tél : +33 (0)3 80 73 11 12 INFORMATIONS JURIDIQUES COMPLEMENTAIRES Immatriculation au registre des opérateurs de voyages et de séjours : IM075110024 Assurance aux tiers obligatoires est mise en oeuvre par : RSA – 153 RUE SAINT HONORE – 75001 PARIS Garantie financière fournie par : APST – 15 avenue CARNOT – 75017 PARIS",
-    "privacy": "Limitation de responsabilité et exclusions de garantie PV-CP DISTRIBUTION s’engage à prendre un soin tout particulier dans la véracité des informations transmises sur le site notamment concernant les spécifications des produits et les prix et de maintenir le site à jour de manière régulière. Toutefois, des informations erronées ou des omissions pourront être constatées dues notamment à des erreurs typographiques ou de mise en page. Si vous constatiez quelques erreurs vous êtes invités à nous les indiquer pour qu’il soit procédé aux corrections appropriées. PV-CP DISTRIBUTION se réserve le droit, à sa seule discrétion, de modifier tout élément du site. Dans le cadre de sa politique de mise à jour et d'optimisation du site, PV-CP DISTRIBUTION peut décider de modifier les présentes conditions. Toute information datée qui est publiée sur le site ne vaut que pour la date précisée uniquement. Ainsi PV-CP DISTRIBUTION se réserve le droit de mettre fin à l’une quelconque ou à toutes ses offres sur Internet sans préavis. De surcroît, les offres d’informations, de produits ou de services faites sur le site ne constituent ni un quelconque démarchage ni une quelconque sollicitation de la part de PV-CP DISTRIBUTION vis-à-vis de quiconque en vue de leur utilisation dans des zones géographiques où la fourniture des informations, produits et services susmentionnés est interdite par la loi. PV-CP DISTRIBUTION ne peut garantir l'accès ininterrompu au site, ni l'absence totale d'erreurs. Il peut arriver que le service soit interrompu lors de problèmes de maintenance ou réparations, ou suite à des problèmes informatiques, à une perturbation du service Internet ou à d'autres circonstances imprévues. De même, PV-CP DISTRIBUTION n’est pas responsable des retards, difficulté d’utilisation, ou de l’incompatibilité entre le présent site et des fichiers, votre navigateur ou tout autre programme d’accès au site."
-  }
+	"app-title": "Center Parcs - Bracelet",
+	"login": {
+		"title": "Consulter mon bracelet",
+		"connected": "Connecté",
+		"disconnected": "Déconnecté",
+		"login": "Connexion",
+		"next": "Continuer",
+		"logout": "Déconnexion",
+		"progress": "Connexion en cours...",
+		"welcome": "Bienvenue ! Connectez-vous pour consulter les prestations présentes sur votre bracelet.",
+		"error": {
+			"title": "Connexion",
+			"message": "Une erreur s'est produite lors de la tentative d'identification.",
+			"close": "Fermer"
+		},
+		"subnav": {
+			"scan": {
+				"label": "Comment scanner mon bracelet ?"
+			},
+			"numero": {
+				"label": "Où trouver le numéro de mon bracelet ?"
+			},
+			"nfc": {
+				"label": "Mon téléphone est compatible NFC",
+				"caption": "iPhone 7+, Android selon modèle"
+			},
+			"bookingid": {
+				"label": "Je préfére utiliser mon numéro de réservation"
+			}
+		},
+		"help": {
+			"scan": {
+				"title": "Comment scanner mon bracelet ?",
+				"msg1": "Si votre téléphone est compatible NFC, vous pourrez scanner votre bracelet pour entrer son code.",
+				"msg2": "Rapprochez votre téléphone de votre bracelet et attendez la confirmation de votre code bracelet."
+			},
+			"numero": {
+				"title": "Où trouver le numéro de mon bracelet ?",
+				"msg1": "Au dos de votre bracelet, il y a un identifiant à 14 chiffres.",
+				"msg2": "Nous utilisons les 4 premiers chiffres ainsi que les 4 derniers."
+			},
+			"bookingid": {
+				"title": "Où trouver mon numéro de réservation ?",
+				"list": {
+					"label": "Vous retrouverez votre numéro de réservation sur :",
+					"item1": "l'email de confirmation reçu suite à votre réservation",
+					"item2": "l'application Planet Center Parcs dans \" Mon séjour \" puis \" Ma réservation \"",
+					"item3": "la page d'accueil de votre espace MyCenterParcs ou la rubrique \" Détail de ma réservation \""
+				},
+				"msg": "Si votre réservation n'a pas été faite via le site web Center Parcs ou le call center, merci de vous identifier directement avec votre numéro de bracelet."
+			},
+			"close": "Fermer"
+		},
+		"uid": {
+			"label": "Numéro de bracelet",
+			"required": "Le numéro de bracelet est requis.",
+			"minlength": "Merci de saisir au moins 6 caractères.",
+			"unknown": "Votre numéro de bracelet n'a pas pu être reconnnu."
+		},
+		"cottage": {
+			"label": "Numéro de cottage",
+			"required": "Le numéro de cottage est requis.",
+			"pattern": "Merci de ne saisir que des chiffres.",
+			"unknown": "Votre numéro de cottage n'a pas pu être reconnnu."
+		}
+	},
+	"infos": {
+		"title": "Infos",
+		"presenting": " Tous vos coupons maintenant digitalisés et regroupés sur votre bracelet.",
+		"list": {
+			"lbl1": "Pour toutes les prestations pré-réservées :",
+			"msg1": "Tous vos coupons maintenant digitalisés et regroupés sur votre bracelet.",
+			"lbl2": "Pour les prestations Spa Deep Nature :",
+			"msg2": "Pensez à planifier votre soin à la réception du spa",
+			"lbl3": "Pour les activités-Cadeaux offertes dans le cadre de l'offre Early Booking :",
+			"msg3": "Rendez-vous à la réception du parc pour leur planification et réservation"
+		},
+		"subscription": "Je m'abonne aux alertes bracelet, un email ou SMS pour chaque utilisation",
+		"booking": {
+			"label": "Réservation n°"
+		},
+		"cottage": {
+			"label": "Cottage n°"
+		},
+		"fromto": "Du {{begin}} au {{end}}"
+	},
+	"voucher": {
+		"burned": "Consommé le",
+		"expired": "Expiré le"
+	},
+	"activities": {
+		"title": "Activités",
+		"available": "Mes activités",
+		"used": "Mes activités consommées",
+		"empty": "Aucune activité"
+	},
+	"services": {
+		"title": "Forfaits & Services",
+		"available": "Mes prestations",
+		"used": "Mes prestations consommées",
+		"empty": "Aucun service"
+	},
+	"payments": {
+		"title": "Paiements",
+		"msg": "Mes paiements avec mon bracelet",
+		"empty": "Aucune transaction",
+		"compensation": "Compensation",
+		"cashless": "Cashless",
+		"recreation": "Recreation",
+		"total": "Solde initial",
+		"available": "Solde à consommer",
+		"debits": "Débits effectués",
+		"recent": "Débits récents",
+		"expand": "Voir tous les débits",
+		"collapse": "Réduire"
+	},
+	"footer": {
+		"title": "Center Parcs",
+		"conditions": "Terms and conditions",
+		"privacy": "Privacy"
+	},
+	"errors": {
+		"invalid-form": "Formulaire invalide",
+		"technical-title": "Erreur technique",
+		"technical-fetch-msg": "Une erreur s'est produite lors du rapatriement des données",
+		"close": "Fermer"
+	},
+	"conditions": {
+		"terms": "INFORMATIONS EDITEUR\n Ce site est édité par PV-CP DISTRIBUTION \n Société anonyme au capital de 6.055.935 euros\n Siège social : L’Artois – Espace Pont de Flandre, 11 rue de Cambrai 75947 PARIS CEDEX 19\n RCS PARIS sous le N° 314 283 326 - SIRET 314 283 326 00093 - APE 7912Z\n N° Identification TVA intracommunautaire : FR 96 314 283 326 Nom du Directeur de la publication : M. Grégory SION Numéro de téléphone de contact : +33 (0)1 58 21 58 21 Adresse Courriel de contact : direction.web@groupepvcp.com INFORMATIONS HEBERGEUR PLANET Bourgogne - Jean-Michel LEFAURE RCS DIJON B 403 226 012 APE 62024 24 rue de la Redoute 21850 Saint Apollinaire Tél : +33 (0)3 80 73 11 12 INFORMATIONS JURIDIQUES COMPLEMENTAIRES Immatriculation au registre des opérateurs de voyages et de séjours : IM075110024 Assurance aux tiers obligatoires est mise en oeuvre par : RSA – 153 RUE SAINT HONORE – 75001 PARIS Garantie financière fournie par : APST – 15 avenue CARNOT – 75017 PARIS",
+		"privacy": "Limitation de responsabilité et exclusions de garantie PV-CP DISTRIBUTION s’engage à prendre un soin tout particulier dans la véracité des informations transmises sur le site notamment concernant les spécifications des produits et les prix et de maintenir le site à jour de manière régulière. Toutefois, des informations erronées ou des omissions pourront être constatées dues notamment à des erreurs typographiques ou de mise en page. Si vous constatiez quelques erreurs vous êtes invités à nous les indiquer pour qu’il soit procédé aux corrections appropriées. PV-CP DISTRIBUTION se réserve le droit, à sa seule discrétion, de modifier tout élément du site. Dans le cadre de sa politique de mise à jour et d'optimisation du site, PV-CP DISTRIBUTION peut décider de modifier les présentes conditions. Toute information datée qui est publiée sur le site ne vaut que pour la date précisée uniquement. Ainsi PV-CP DISTRIBUTION se réserve le droit de mettre fin à l’une quelconque ou à toutes ses offres sur Internet sans préavis. De surcroît, les offres d’informations, de produits ou de services faites sur le site ne constituent ni un quelconque démarchage ni une quelconque sollicitation de la part de PV-CP DISTRIBUTION vis-à-vis de quiconque en vue de leur utilisation dans des zones géographiques où la fourniture des informations, produits et services susmentionnés est interdite par la loi. PV-CP DISTRIBUTION ne peut garantir l'accès ininterrompu au site, ni l'absence totale d'erreurs. Il peut arriver que le service soit interrompu lors de problèmes de maintenance ou réparations, ou suite à des problèmes informatiques, à une perturbation du service Internet ou à d'autres circonstances imprévues. De même, PV-CP DISTRIBUTION n’est pas responsable des retards, difficulté d’utilisation, ou de l’incompatibilité entre le présent site et des fichiers, votre navigateur ou tout autre programme d’accès au site."
+	}
 }

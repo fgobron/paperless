@@ -66,7 +66,7 @@
 		}
 	},
 	"infos": {
-		"title": "Informatie",
+		"title": "Info.",
 		"presenting": "Al uw tegoedbonnen zijn vanaf nu gedigitaliseerd en verzameld op uw armband.",
 		"list": {
 			"lbl1": "Voor alle vooraf geboekte dienstverleningen ",
@@ -96,7 +96,7 @@
 		"empty": "Geen enkele activiteit"
 	},
 	"services": {
-		"title": "Arrangementen & Services",
+		"title": "Arrangem. & Services",
 		"available": "Mijn diensten",
 		"used": "Mijn verbruikte diensten",
 		"empty": "Geen enkele dienst"
